@@ -1,7 +1,19 @@
-# Livro de receitas :woman_cook:
+# Livro de Receitas :woman_cook:
 
-#### Olá! Esse e meu livro de receitas.
+#### Olá! Esse é meu livro de Receitas.
 
-- faça
+- Lasanha de berinjela
+
+- Bacalhau Crocante
+
+- Frango assado com molho porto
+
+- Macarrão com queijo
+
+- Panqueca de carne moída
+
+- Pão de queijo
+
+- Feijoada mineira
 
   
